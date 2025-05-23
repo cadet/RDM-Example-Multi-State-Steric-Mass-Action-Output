@@ -1,7 +1,8 @@
-# Output repo
+# Output repository for Multi-State Steric Mass Action simulation with CADET
+This repository stores the simulation results for RDM-Example Multi-State Steric Mass Action. `CADET-RDM` automatically tracks all simulations that are started by running `main.py` from the corresponding project repository.
 
-This repository contains the results of the CADET case study of the project found below. 
-CADET-RDM tracks all runs of the `main.py` from the project repository. Every run creates its own branch in this output repository where all the results can be found inside the `src` folder. Check `log.tsv` on branch main to see which branch corresponds to which run. 
+Each simulation run creates a dedicated branch in this output repository. The results are saved within the `src` folder of the respective branch. Additionally, a `log.tsv` file in the main branch records metadata for all runs, uniquely linking each output branch to its originating run in the project repository.
 
-The project repository can be found at:
-[Multi-State Steric Mass Action](https://github.com/cadet/RDM-Example-Multi-State-Steric-Mass-Action)
+## Project Repository
+The project repository for this case study is available here: <br>
+[Link to Project Repository](https://github.com/cadet/RDM-Example-Multi-State-Steric-Mass-Action)
