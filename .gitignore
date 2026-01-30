@@ -3,3 +3,8 @@
 *tmp*
 .ipynb_checkpoints
 __pycache__
+.idea
+*diskcache*
+*tmp*
+.ipynb_checkpoints
+__pycache__
