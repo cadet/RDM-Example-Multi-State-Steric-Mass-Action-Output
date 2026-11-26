@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "Run large optimizations; ",
+  "output_repo_branch": "2026-11-26_12-30-48_main_4ce9589",
+  "output_repo_commit_hash": "c918536243e6844a5c275c0b9c345a8da21d6291",
+  "project_repo_branch": "main",
+  "project_repo_commit_hash": "4ce9589e185e961be7cc8f67d277f6e28e5e874b",
+  "project_repo_directory_name": "RDM-Example-Multi-State-Steric-Mass-Action",
+  "project_repo_remotes": [
+    "git@github.com:cadet/RDM-Example-Multi-State-Steric-Mass-Action.git"
+  ],
+  "python_sys_args": "['main.py']",
+  "tags": "",
+  "options_hash": "f5ywb884bh4krchb69pytjjbzrranvww"
+}
